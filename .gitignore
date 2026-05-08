@@ -1,0 +1,17 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+
+# Local/generated data
+data/raw/
+data/processed/
+vector_db/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

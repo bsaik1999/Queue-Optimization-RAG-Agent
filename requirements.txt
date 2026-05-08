@@ -1,0 +1,7 @@
+﻿pandas
+pyarrow
+streamlit
+ollama
+langchain-huggingface
+langchain-chroma
+sentence-transformers
